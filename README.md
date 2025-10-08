@@ -17,4 +17,4 @@ I'm a passionate Full-Stack Web Development student at Red River College, Winnip
 ## 🎯 Currently
 - 🔭 Building full-stack projects with React & Node.js
 - 🌱 Learning TypeScript and Next.js
-- 👯 Seeking co-op opportunities for 2024
+- 👯 Seeking co-op opportunities for 2026
