@@ -12,7 +12,7 @@ I'm a passionate Full-Stack Web Development student at Red River College, Winnip
 
 ## 📫 Let's Connect
 - LinkedIn: [Gurshan Singh Sekhon](https://www.linkedin.com/in/gurshan-singh-sekhon-701538237/)
-- Email: (Gurshan1515@gmail.com)
+- Email: Gurshan1515@gmail.com
 
 ## 🎯 Currently
 - 🔭 Building full-stack projects with React & Node.js
